@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Test Technical Telynet</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="visited">Visitados</string>
+    <string name="is_no_visited">No Visitados</string>
+    <string name="code">Codigo</string>
+    <string name="name">Nombre</string>
+    <string name="phone">Telefono</string>
+    <string name="email">Correo</string>
+    <string name="status_visited">Status de Visita</string>
+    <string name="filter_by">Filtrar por:</string>
+    <string name="order_by">Ordenar por:</string>
+    <string name="show_all">Mostrar todo</string>
+
+</resources>
